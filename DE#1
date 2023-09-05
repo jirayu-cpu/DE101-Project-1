@@ -1,3 +1,5 @@
+#เริ่มต้นโปรเจค
+
 **ติดตั้ง Spark และ PySpark**
 !apt-get update                                                                          # อัพเดท Package ทั้งหมดใน VM ตัวนี้
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null                                  # ติดตั้ง Java Development Kit (จำเป็นสำหรับการติดตั้ง Spark)
